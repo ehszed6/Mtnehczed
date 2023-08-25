@@ -1,1 +1,4 @@
-﻿vless://ab6eeeda-3d52-4b92-ef47-25b2d84cf5a4@170.114.46.180:443?path=%2F&security=tls&encryption=none&host=zaa.meloser.shop&type=ws&sni=zza.meloser.shop#ERFAN
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1aug25-sep25--UPDATED+aug+25
+
+
+vless://d1b58805-00b1-4d3e-9bb1-1f2ff71240da@128.140.114.115:2087?path=%2Fxbox.com&security=reality&encryption=none&pbk=4D8HMBkGdshhPr2Fnlh4jZOEhqFGtV-9sNUuD08LchE&host=speedtest.net&fp=chrome&spx=%2F&type=http&sni=www.speedtest.net&sid=da4e2d54#zakaria-mtn+aug25
