@@ -2,6 +2,8 @@
 
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1aug25-sep25--UPDATED+aug+28
 
+vless://57d660d9-27dd-42c0-9402-0ca565c8e2b1@116.203.84.154:11907?mode=gun&security=reality&encryption=none&pbk=ns67GjiVL23QocXiQPNIe8q5AXTFSXuk-uKH4bcrxF0&fp=firefox&spx=%2F&type=grpc&serviceName=Tel : @NuFiLter&sni=www.speedtest.net&sid=5235b36b#EHS+VIP+2
+
 vless://e05f5fd0-2d00-4458-9901-4030668f7942@49.13.5.51:27305?mode=gun&security=reality&encryption=none&pbk=uXPaWdUp37Al7ukz7zUYhVBrrZn_gRLjJt-KH0dhJUc&fp=firefox&spx=%2FSeyyedmt&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=8d7484f1#EHS+VIP+IRANCELL
 
 
