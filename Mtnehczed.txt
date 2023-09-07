@@ -1,6 +1,6 @@
 
 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1aug25-sep25--UPDATED+aug+28
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1aug25-sep25--UPDATED+sep7
 
 vless://57d660d9-27dd-42c0-9402-0ca565c8e2b1@116.203.84.154:11907?mode=gun&security=reality&encryption=none&pbk=ns67GjiVL23QocXiQPNIe8q5AXTFSXuk-uKH4bcrxF0&fp=firefox&spx=%2F&type=grpc&serviceName=Tel : @NuFiLter&sni=www.speedtest.net&sid=5235b36b#EHS+VIP+2
 
