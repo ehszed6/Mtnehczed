@@ -1,6 +1,11 @@
 
 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1oct31-1monthplan--UPDATED+oct31
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1oct31-1monthplan--UPDATED+nov3
+
+
+vless://750d1952-0997-4e43-ab7c-228a24d7b096@5.161.217.77:443?security=reality&encryption=none&pbk=YHnASUUS5g4h1HFoQs3siZnhRshW7USVASdbCwCbKC4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ftp.debian.org&sid=6ba85179e30d4fc2#EHS+USA
+
+vless://750d1952-0997-4e43-ab7c-228a24d7b096@91.107.188.185:443?security=reality&encryption=none&pbk=_x5zXzUT1LBCvlingyO_SWQx0tcBTJ_dsXsr7gm0YE8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=6ba85179e30d4fc2#EHS+GERMANY
 
 
 vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev#EHS
