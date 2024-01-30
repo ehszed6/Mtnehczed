@@ -2,6 +2,9 @@
 
 vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1oct31-1monthplan--UPDATED+jan31
 
+
+vless://3680163f-f29f-4ca2-b15d-07bb4edca792@mkh.kavir.tech:2053?path=%2Fshop&security=tls&encryption=none&host=fr.kavir.tech&fp=chrome&type=ws&sni=fr.kavir.tech#ehs
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#ehs
 
 
