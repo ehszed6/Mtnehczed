@@ -1,6 +1,10 @@
 
 
-vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1oct31-1monthplan--UPDATED+jan30
+vless://EHS@EHS:666?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1oct31-1monthplan--UPDATED+jan31
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#EHS+SS
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#EHS+SS
 
 vless://127e469a-6838-45fe-92fc-c3e5dbe54d1c@ekhtelal.rmm83mir.online:21172?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#ehs1
 
